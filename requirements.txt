@@ -1,0 +1,7 @@
+pyarrow
+boto3
+python-dotenv
+ipykernel
+pandas 
+requests 
+bs4 
